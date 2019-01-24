@@ -1,12 +1,14 @@
 ---
 layout:     post
-title:      CentOS安装Docker
+title:      SpringBoot Docker简单教程
 subtitle:   CentOS安装Docker 全记录
-date:       2019-01-25
+date:       2018-11-25
 author:     wangzukun
 header-img: img/post-bg-cook.jpg
 catalog: true
 tags:
+    - SpringBoot
+    - SpringCloud
     - Docker
 ---
 

@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 712bb5f14af041f4b89c                            #生成的clientID
   clientSecret: e77f64c9fa10e4bf42ee6c15c37e4d635ad4f536    #生成的clientSecret
-  repo: http://blog.tianxiao100.com    #仓库名称
+  repo: tianxiao100.github.io    #仓库名称
   owner: tianxiao100    #github用户名
   admin: tianxiao100
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
